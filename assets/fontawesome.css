@@ -1,0 +1,10 @@
+header menu{
+    list-style: none;
+    text-align: center;
+    padding: 0;
+}
+li .fas{
+    margin-right: 0.25em;
+}
+
+
